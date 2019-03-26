@@ -2,4 +2,4 @@
 
 Fairly simple asteroids game build with JS.
 
-<img src="screen.png" width="40%">
+<img src="screen.png" width="80%">
